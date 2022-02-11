@@ -1,5 +1,9 @@
 ## Changelog
 
+## 1.9.0 (in progress)
+
+- [new feature] [BULK-22 #399](https://github.com/datastax/dsbulk/pull/399): Add ability to unwrap BATCH queries.
+
 ## 1.8.0
 
 - [improvement] Upgrade driver to 4.10.0.
