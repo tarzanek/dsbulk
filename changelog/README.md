@@ -2,7 +2,7 @@
 
 ## 1.9.0 (in progress)
 
-- [new feature] [BULK-22 #399](https://github.com/datastax/dsbulk/pull/399): Add ability to unwrap BATCH queries.
+- [new feature] [#400](https://github.com/datastax/dsbulk/issues/400): Add ability to unwrap BATCH queries.
 
 ## 1.8.0
 
